@@ -6,7 +6,7 @@
 ### <div align="center">I'm Tomas Idalgo, full-stack programmer. 🚀</div>  
   
 
-- 🔭 Back-end developer  
+- 🔭 Full-Stack developer  
   
 
 - 🌱 Currently studying Java and Spring Boot  

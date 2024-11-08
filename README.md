@@ -3,11 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Tomas Idalgo, full-stack programmer. 🚀</div>  
-  
-
-- 🔭 Full-Stack developer  
-  
+### <div align="center">I'm Tomas Idalgo, Full-Stack Dev. 🚀</div>  
 
 - 🌱 Currently studying Java and Spring Boot  
   
